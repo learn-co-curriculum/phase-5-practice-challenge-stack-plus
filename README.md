@@ -9,7 +9,7 @@ in job interviews.
 
 Implement a `StackPlus` class that has the following methods:
 
-- `#push(value)`: Pushes the value (Integer) to the top of the stack
+- `#push(value)`: Push the value (Integer) to the top of the stack
 - `#pop`: Pop the top value off the stack and return the value. If no values are
   present, return `-1`.
 - `#increment(n)`: Increment the value of the bottom `n` number of elements
